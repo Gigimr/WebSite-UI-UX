@@ -1,4 +1,5 @@
 import SectionSvg from "../assets/svg/SectionSvg";
+//rectangular lines on desktop devices
 
 const Section = ({
   className,
